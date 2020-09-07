@@ -1,0 +1,64 @@
+body{
+	background: white;
+	font-family: "Comic Sans MS";
+	color: black;
+}
+
+div{
+	background: rgb(153,153,153);
+}
+.container-fluid {
+	background: rgb(153,153,153);
+	border: solid 2px black;
+	font-family: "Comic Sans MS";
+	color: black;
+	margin:0px;
+	width: 100%;
+}
+
+.container-fluid .navbar-header .navbar-brand {
+	color: black;
+}
+
+.navbar-header div{
+	border: solid 2px black;
+}
+
+.navbar-header button.navbar-toggle{
+	border: solid 2px black;
+	border-radius: 0;
+	background: rgb(153,153,153);
+}
+
+.navbar-header span.icon-bar{
+	color:black;
+}
+
+.navbar-nav a{
+	background: white;
+	border: solid 1px black;
+	margin: 0px;
+	height: auto;
+	color: black;
+	text-align: center;
+	font-weight: bold;
+}
+
+.collapse .navbar-collapse .nav .navbar-nav li, a:hover{
+	color: black;
+	background: white;
+}
+
+#chiken{
+	margin-top: 15px;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+
+.row{
+	padding-top:15px;
+	background: white;
+	width: 90%;
+	margin:auto;
+}
+.col-xs-12
